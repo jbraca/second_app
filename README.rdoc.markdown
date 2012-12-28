@@ -1,5 +1,5 @@
 Ruby on Rails Tutorial
-
+This was modified from my home computer on 27-Dec-12.
 
 == Welcome to Rails
 
